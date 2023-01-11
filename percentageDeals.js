@@ -13,7 +13,7 @@ const PercentageDeals = () =>{
                 <View style={styles.gadgetDetails}>
                     <Image style={styles.image} source={require('../assets/allensolley.png')}/>
                     <View style={styles.textContainer}>
-                        <Text style={styles.gadgetsText}>Trousers, Shirts</Text>
+                        <Text style={styles.gadgetsText}>Trousers, Shirts...</Text>
                         <Text style={styles.gadgetsDiscounText}>40 - 60% off</Text>
                     </View>
                 </View>
