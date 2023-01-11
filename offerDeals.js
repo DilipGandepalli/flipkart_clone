@@ -8,7 +8,8 @@ const Width = Dimensions.get('window').width;
 
 const Offerdeals = () =>{
     return(
-        <View style={styles.container}>
+        <View>
+           <View style={styles.container}>
             <View style={styles.horizontal}>
                 <View style={styles.gadgetDetails}>
                     <Image style={styles.image} source={require('../assets/gadgets.png')}/>
@@ -34,6 +35,8 @@ const Offerdeals = () =>{
             
             </View>
         </View>
+        </View>
+
     )
 }
 
