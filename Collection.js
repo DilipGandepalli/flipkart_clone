@@ -45,7 +45,7 @@ const CollectionGrid = () =>{
                             <View style={styles.glovesContianer}>    
                                 <Image style={styles.image} source={require('../assets/gloves.png')}/> 
                                 <Text style={styles.containerText}>Gym Gloves</Text>
-                                <Text style={styles.containerSubText}>New Range</Text>
+                                <Text style={styles.containerSubText}>New Range..</Text>
                             </View>
                         </View>
                     </View>
